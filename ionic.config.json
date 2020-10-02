@@ -1,0 +1,7 @@
+{
+  "name": "TauchFarmRedo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
